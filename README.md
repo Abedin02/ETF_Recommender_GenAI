@@ -31,11 +31,10 @@ The project combines:
 
 | Contributor | Project Parts | Responsibilities | Email | GitHub / Repo |
 | --- | --- | --- | --- | --- |
-| Awab | Part 1 | ETF master collection, Finviz scraping, ETF metadata cleaning, AUM parsing, duplicate removal, query date creation, and initial index-performance comparison. | `Add email here` | [Add GitHub/repo link](https://github.com/) |
-| Tanat | Part 2 | ETF holdings collection, iShares scraping, provider URL extraction, holdings CSV retrieval, Selenium setup, StockAnalysis fallback exploration, and resume-capability setup. | `Add email here` | [Add GitHub/repo link](https://github.com/) |
-| Pratham | Parts 3 and 4 | MongoDB connection, database and collection setup, bulk upserts, index creation, explain-plan performance comparisons, Gemini integration, prompt creation, self-healing strategy-summary generation, sample output review, and hallucination checks. | `Add email here` | [Add GitHub/repo link](https://github.com/) |
-| Parsa | Parts 5 and 6 | Data quality validation, holdings cleanup, ticker normalization, weight parsing, similarity metric implementation, embedding generation, known-pair validation, and ETF recommendation output. | `Add email here` | [Add GitHub/repo link](https://github.com/) |
-
+| Awab | Part 1 | ETF master collection, Finviz scraping, ETF metadata cleaning, AUM parsing, duplicate removal, query date creation, and initial index-performance comparison. | abedinawab1@gmail.com |
+| Tanat | Part 2 | ETF holdings collection, iShares scraping, provider URL extraction, holdings CSV retrieval, Selenium setup, StockAnalysis fallback exploration, and resume-capability setup. | parsajafaripour@gmail.com | 
+| Pratham | Parts 3 and 4 | MongoDB connection, database and collection setup, bulk upserts, index creation, explain-plan performance comparisons, Gemini integration, prompt creation, self-healing strategy-summary generation, sample output review, and hallucination checks. | shahpratham38@gmail.com |
+| Parsa | Parts 5 and 6 | Data quality validation, holdings cleanup, ticker normalization, weight parsing, similarity metric implementation, embedding generation, known-pair validation, and ETF recommendation output. | tsahta1@pride.hofstra.edu | 
 ## Architecture
 
 The project uses two MongoDB collections:
